@@ -20,7 +20,7 @@ Use GridSearchCV with KerasClassifier to search best hyperparameters in simple C
 
 ### Summary of experimental process
 <p align='left'>
-  <img alt="process of project" src="https://github.com/Leohoji/projects_for_hyperparameters_searching/blob/main/introduction_images/process_for_cnn_gridsearch.png?raw=true" width=700 height=400>
+  <img alt="process of project" src="https://github.com/Leohoji/mnist-classification-using-kerasclassifier-cnn-with-GridSearchCV/blob/main/introduction_images/process_for_cnn_gridsearch.png?raw=true" width=700 height=400>
 </p>
 
 ### Hyperparameters to be searched
@@ -48,5 +48,3 @@ Finally find some conditions that can make the model peform better, following co
 | Batch Size           | 8, 32                |
 | Activation Functions | ReLU or Tanh         |
 | Loss functions       | MSE or Cross-Entropy |
-
-> [Back to outlines](#main-title)
