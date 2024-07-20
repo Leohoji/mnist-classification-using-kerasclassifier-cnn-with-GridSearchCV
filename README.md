@@ -1,6 +1,6 @@
 <h1>MNIST classification using CNN applying gridsearch</h1>
 
-**Notebooks Here**  --> [CNN-keras-mnist-gridsearch.ipynb]()
+**Notebooks Here**  --> [CNN-keras-mnist-gridsearch.ipynb](https://github.com/Leohoji/mnist-classification-using-kerasclassifier-cnn-with-GridSearchCV/blob/main/CNN-keras-mnist-gridsearch.ipynb)
 
 Use GridSearchCV with KerasClassifier to search best hyperparameters in simple CNN model trained on MNIST database.
 
